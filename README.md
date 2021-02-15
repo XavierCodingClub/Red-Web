@@ -16,6 +16,6 @@ For this level we wnat you to include:
 - Use gorilla.txt for the information
 - Make use of a variety of elements, maybe include some pictures
 - Tables perhaps...
-- You dotn have to use the text exactly, you have freedom to include the information in the text in other forms like tables
+- You don't have to use the text exactly, you have freedom to include the information in the text in other forms like tables
 
-Make sure to pull request so we can see waht you've created!
+Make sure to pull request so we can see what you've created!
